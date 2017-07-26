@@ -73,7 +73,34 @@ li:hover{
 	background-color: gray;
 	margin-left:35%;
 	margin-top:-20px;
-
+}
+.PRODUTOS{
+	width:98%;
+	height:100%;
+	margin-top:100%;
+	background-color: #668cff;
+	position: absolute;
+}
+.PRODUTOS-T{
+	width:380px;
+	height:30px;
+	background-color: gray;
+	margin-left:35%;
+	margin-top:-20px;
+}
+.CONTATO{
+	width:98%;
+	height:100%;
+	margin-top:150%;
+	background-color: #668cff;
+	position: absolute;
+}
+.CONTATO-T{
+	width:380px;
+	height:30px;
+	background-color: gray;
+	margin-left:35%;
+	margin-top:-20px;
 }
 h1{
 	font-size: 1.6em;
