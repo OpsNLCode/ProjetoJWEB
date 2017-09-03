@@ -118,3 +118,47 @@ h1{
 	margin-left:380px;
 	margin-top:70px; 
 }
+.PRODUTOS{
+	width:98%;
+	height:100%;
+	margin-top:100%;
+	background-color: #668cff;
+	position: absolute;
+}.PRODUTOS-T{
+	width:300px;
+	height:120px;
+	background:url(barrinha.png);
+	position:absolute;
+	margin-left:500px;
+	margin-top:-35px;
+}
+.ProdutosS{
+	margin-top:5px;
+	position: absolute;
+	margin-top:45px;
+	margin-left:118px;
+	font-family: Segoe Script;
+	font-size:18px;
+}
+.CONTATO{
+	width:98%;
+	height:100%;
+	margin-top:150%;
+	background-color: #668cff;
+	position: absolute;
+}.CONTATO-T{
+	width:300px;
+	height:120px;
+	background:url(barrinha.png);
+	position:absolute;
+	margin-left:500px;
+	margin-top:-35px;
+}
+.ContatoO{
+	margin-top:5px;
+	position: absolute;
+	margin-top:45px;
+	margin-left:118px;
+	font-family: Segoe Script;
+	font-size:18px;
+}
