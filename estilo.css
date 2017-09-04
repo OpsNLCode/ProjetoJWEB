@@ -162,3 +162,21 @@ h1{
 	font-family: Segoe Script;
 	font-size:18px;
 }
+.formulario {
+	color: white;
+	font-family: arial;
+	margin: 100px 100px 0px 700px;
+}
+div.formulario input {
+	margin: 2px 0px 7px 0px;
+}
+div.formulario textarea {
+	margin: 2px 0px 7px 0px;
+}
+.campo1 {
+	width: 400px;
+}
+.campo2 {
+	width: 400px;
+	height: 160px;
+}
